@@ -135,6 +135,6 @@ public class Flipkartproduct  {
 		driver.quit();
 		System.out.println("******DETAILS UPLOADED******");
 		system.out.println("done")
-                system.out.println("Done")
+                system.out.println("hai")
 	}
 }
